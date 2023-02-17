@@ -2,27 +2,27 @@
   {
 //ADMOB
     "isActive": "0",
-    "appid": "ca-app-pub-1451246792545093~6263653261",
-    "banner": "ca-app-pub-1451246792545093/6574929865",
-    "Interstitial": "ca-app-pub-1451246792545093/1933526012",
-    "RewardedVideo": "ca-app-pub-1451246792545093/6994281009",
-    "openads": "ca-app-pub-1451246792545093/7703909205"
+    "appid": "ca-app-pub-1451246792545093~2932273722",
+    "banner": "ca-app-pub-1451246792545093/2577050509",
+    "Interstitial": "ca-app-pub-1451246792545093/6248702202",
+    "RewardedVideo": "ca-app-pub-1451246792545093/4827809323",
+    "openads": "ca-app-pub-1451246792545093/3514727658"
   },
   {
 //APPLOVIN      
     "isActive": "1",
      "istest": "0",
     "appid": "zxE00EGMqWCwQ4E6D_7JQqPL146-sfCKSEVBJTWgzK_HURLNi1R4gb-M9cglUhUPW8rRcd8WXIpgJFmibQPaou",
-    "banner": "8e20f4842a76783d",
-    "Interstitial": "3dcd090f15ccabfa",
-    "RewardedVideo": "d431195f01b6c13c",
-     "openads": "1cb500a386673d9e"
+    "banner": "03dd22ddccf29612",
+    "Interstitial": "2f45da2513a65f07",
+    "RewardedVideo": "c01eb73a7d1aa166",
+     "openads": "bdcbaf509ed5d0a2"
   },
   {
 //UNITY      
     "isActive": "1",
      "istest": "0",
-    "appid": "5162561",
+    "appid": "5169281",
     "banner": "Banner_Android",
     "Interstitial": "Interstitial_Android",
     "RewardedVideo": "Interstitial_Android",
