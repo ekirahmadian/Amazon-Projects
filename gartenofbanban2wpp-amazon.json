@@ -1,7 +1,7 @@
 [
   {
 //ADMOB
-    "isActive": "1",
+    "isActive": "0",
     "appid": "ca-app-pub-1451246792545093~2673636892",
     "banner": "ca-app-pub-1451246792545093/1971763460",
     "Interstitial": "ca-app-pub-1451246792545093/8488800855",
@@ -10,7 +10,7 @@
   },
   {
 //APPLOVIN      
-    "isActive": "1",
+    "isActive": "0",
      "istest": "0",
     "appid": "zxE00EGMqWCwQ4E6D_7JQqPL146-sfCKSEVBJTWgzK_HURLNi1R4gb-M9cglUhUPW8rRcd8WXIpgJFmibQPaou",
     "banner": "3efef8c3d53482e5",
