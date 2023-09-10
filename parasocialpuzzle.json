@@ -1,12 +1,12 @@
 [
   {
 //ADMOB
-    "isActive": "0",
-    "appid": "ca-app-pub-1451246792545093~2673636892",
-    "banner": "ca-app-pub-1451246792545093/1971763460",
-    "Interstitial": "ca-app-pub-1451246792545093/8488800855",
-    "RewardedVideo": "ca-app-pub-1451246792545093/8983624874",
-    "openads": "ca-app-pub-1451246792545093/3564046735"
+    "isActive": "1",
+    "appid": "ca-app-pub-5124927605650122~8116192619",
+    "banner": "ca-app-pub-5124927605650122/6950450605",
+    "Interstitial": "ca-app-pub-5124927605650122/9680270313",
+    "RewardedVideo": "ca-app-pub-5124927605650122/8319372597",
+    "openads": "ca-app-pub-5124927605650122/7006290920"
   },
   {
 //APPLOVIN      
